@@ -12,8 +12,9 @@ A Crudy app that scrapes articles from the New York Times website, user can save
     <li> Mongoose</li>
 </ul>
 
+## NPM Packages
+
 <ul>
-    <li> npm packages</li>
     <li> body-parser</li>
     <li> express</li>
     <li> express-handlebars</li>
