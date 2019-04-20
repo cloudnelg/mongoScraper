@@ -1,6 +1,6 @@
 #Mongo Scraper
 
-A Crudy app that srapes articles from the New York Times website, user can save and comment on articles.
+A Crudy app that scrapes articles from the New York Times website, user can save and comment on articles.
 
 ## Technologies Used
 
@@ -22,4 +22,4 @@ A Crudy app that srapes articles from the New York Times website, user can save 
     <li> request</li>
 </ul>
 
-[Deployed App]()
+[Deployed App](https://git.heroku.com/c1oudscraper.git)
