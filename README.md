@@ -12,8 +12,9 @@ A Crudy app that scrapes articles from the New York Times website, user can save
     <li> Mongoose</li>
 </ul>
 
+## NPM Packages
+
 <ul>
-    <li> npm packages</li>
     <li> body-parser</li>
     <li> express</li>
     <li> express-handlebars</li>
@@ -22,4 +23,4 @@ A Crudy app that scrapes articles from the New York Times website, user can save
     <li> request</li>
 </ul>
 
-[Deployed App](https://git.heroku.com/c1oudscraper.git)
+[Deployed App](https://c1oudscraper.herokuapp.com/)
